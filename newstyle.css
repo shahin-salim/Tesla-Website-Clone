@@ -1,0 +1,346 @@
+body{
+    margin: 0%;
+}
+.section-1{
+    width: 100%;
+    height: 758px;
+    background-color: blue;
+}
+.bg-image-section-1{
+    background-image: url(models-eye.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 1000px;
+
+}
+.header{
+    width: 100%;
+    height: 112px;
+    margin-left: -3px;
+    position: fixed;
+
+}
+.header-1{
+    width: 100%;
+    height: 52px;
+
+}
+.header-2{
+    width: 100%;
+    height: 53px;
+    position:fixed;    
+}
+.body-1{
+    width: 100%;
+    height: 683px;
+
+}
+.inside{
+    background-color: rgb(253 254 254);
+    width: 100%;
+    height: 53px;
+    position: fixed;
+}
+.underline{
+    height: 1px;
+    background: #76787b;
+    border: none;
+    margin-top: 0px;
+
+}
+
+.report{
+    margin-left: 2px;
+    color: #76787b;
+}
+
+.control { 
+    width: 14%;
+    margin-top: 15px;
+    margin-left: 612px;
+}
+
+
+.tesla-header-2{
+    margin-top: 7px;
+    margin-left: 35px;
+    width: 66px;
+    float: left;
+    position: fixed;
+  
+}
+.edit-img-tesla{
+    background: none;
+    width: 100%;
+}
+.allCarName-header-2{
+    float: left;
+    width: 41%;
+    margin-left: 241px;
+    height: 35px;
+    margin-top: -2px;
+}
+.carName-buttons{
+    width: 97px;
+    margin-top: 6px;
+    border-radius: 17px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #181b21;
+    background-color: #00000000;
+    float: left;
+    border: none;
+    margin-left: 6px;
+}
+.allCarName-1-header-2{
+    width: 82px;
+    margin-top: 6px;
+    border-radius: 17px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #181b21;
+    background-color: #00000000;
+    float: left;
+    border: none;
+
+}
+
+
+
+.all-names-ofheader-2{
+    height: 22px;
+    margin-top: 13px;
+    float: left;
+    width: 100%;
+
+}
+.tesla-image{
+    width: 9%;
+    margin-left: 46px;
+    height: 19px;
+    float: left;
+}
+.header2-last-div{
+    float: left;
+    margin-left: 1198px;
+   
+}
+.all-car-names-last-div{
+    width: 17%;
+    margin-left: 1219px;
+    height: 20px;
+}
+.allCarName-last-div-button1{
+    width: 97px;
+    margin-top: 3px;
+    border-radius: 17px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #181b21;
+    background-color: #00000000;
+    float: left;
+    border: none;
+    margin-left: -31px;
+
+}
+.carName-buttons-last-div2{
+    width: 97px;
+    margin-top: 3px;
+    border-radius: 17px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #181b21;
+    background-color: #00000000;
+    float: left;
+    border: none;
+    margin-left: -10px;
+
+}
+.carName-buttons-last-div3{
+    width: 97px;
+    margin-top: 3px;
+    border-radius: 17px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #181b21;
+    background-color: #00000000;
+    float: left;
+    border: none;
+    margin-left: -10px;
+
+}
+
+
+
+.model-name-div{
+    width: 100%;
+    height: 72px;
+    margin-top: 92px;
+    margin-left: 22px;
+}
+.nameOf-car{
+    width: 11%;
+    height: 36px;
+    margin-left: 630px;
+}
+.model-name{
+    
+    width: 100%;
+    font-size: 38px;
+    font-family: sans-serif;
+    margin-top: 4px;
+    color: #5c5d61;
+
+}
+.link{
+    margin-left: 589px;
+    margin-top: 12px;
+}
+.link-namepart-1{
+    color: #5c5d61;
+    
+}
+.link-namepart-2{
+    color: #5c5d61;
+}
+
+
+.buttons-in-bottom{
+    width: 100%;
+    margin-top: 410px;
+    height: 38px;
+}
+
+.icon-div{
+    width: 100%;
+    height: 29px;
+    margin-top: 40px;
+}
+.two-buttons-bottom{
+    width: 36%;
+    height: 38px;
+    margin-left: 464px;
+}
+.arrow-icon{
+    width: 3%;
+    height: 29px;
+    margin-left: 720px;
+
+}
+.button-bottom-1{
+    width: 47%;
+    height: 39px;
+    border-radius: 28px;
+    float: left;
+    background-color: #241824;
+    color: #ffffff;
+    border: none;
+    opacity: .5;
+}
+.button-bottom-2{
+    width: 47%;
+    height: 39px;
+    border-radius: 28px;
+    float: left;
+    margin-left: 31px;
+    background-color: #d1ceca;
+    color: #5d5459;
+    border: none;
+    opacity: .5;
+}
+.fa-chevron-down{
+    font-size: 29px;
+}
+
+.section-2{
+    width: 100%;
+    height: 758px;
+    background-color: blue;
+
+}
+.bg-image-section-2{
+
+    background-image: url(modelY-eye.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 1000px;
+}
+.bg-image-section-3{
+
+    background-image: url(model3-eye.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 1000px;
+}
+.bg-image-section-4{
+
+    background-image: url(modelX-eye.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 1000px;
+}
+.bg-image-section-5{
+
+    background-image: url(solarpanel-eye.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 1000px;
+}
+.model-name-seciton-5{
+    
+    width: 130%;
+    font-size: 38px;
+    font-family: sans-serif;
+    margin-top: 4px;
+    color: #5c5d61;
+    margin-left: -33px;
+
+}
+.model-name-div-section-5{
+    width: 100%;
+    height: 72px;
+    margin-top: 92px;
+    margin-left: 22px;
+}
+.nameOf-car-section-5{
+    width: 11%;
+    height: 36px;
+    margin-left: 630px;
+}
+
+.link-section-6{
+    margin-left: 570px;
+    margin-top: 12px;
+}
+.bg-image-section-6{
+    background-image: url(solarroof-eye.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 1000px;
+}
+.bg-image-section-7{
+    background-image: url(charging-eye.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 1000px;
+}
+.button-bottom-1-section-7{
+    width: 47%;
+    height: 39px;
+    border-radius: 28px;
+    float: left;
+    background-color: #241824;
+    color: #ffffff;
+    border: none;
+    margin-left: 155px;
+}
+.link-section-5{
+    margin-left: 592px;
+    margin-top: 12px;
+}
+.footer > div {
+    margin-left: 10px;
+}
+.footer{
+    margin-top: 117px;
+    height: 17px;
+    display: flex;
+    margin-left: 540px;
+    width: 50%;
+    color: #d0d0d2;
+    font-family: sans-serif;
+    font-size: 12px;
+}
