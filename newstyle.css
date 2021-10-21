@@ -8,6 +8,7 @@ body{
 }
 .bg-image-section-1{
     background-image: url(models-eye.jpeg);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 172%;
 
@@ -260,24 +261,28 @@ body{
 .bg-image-section-2{
 
     background-image: url(modelY-eye.jpeg);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 172%;
 }
 .bg-image-section-3{
 
     background-image: url(model3-eye.jpeg);
+    background-position: center;
     background-repeat: no-repeat;
-    background-size: 100% 172%;
+    background-size: 100% 141%;
 }
 .bg-image-section-4{
 
     background-image: url(modelX-eye.jpeg);
+    background-position: center;
     background-repeat: no-repeat;
-    background-size: 100% 172%;
+    background-size: 100% 116%;
 }
 .bg-image-section-5{
 
     background-image: url(solarpanel-eye.jpeg);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: 100% 172%;
 }
@@ -309,13 +314,15 @@ body{
 }
 .bg-image-section-6{
     background-image: url(solarroof-eye.jpeg);
+    background-position: center;
     background-repeat: no-repeat;
-    background-size: 100% 172%;
+    background-size: 100% 126%;
 }
 .bg-image-section-7{
     background-image: url(charging-eye.jpeg);
+    background-position: center;
     background-repeat: no-repeat;
-    background-size: 100% 172%;
+    background-size: 164% 215%;
 }
 .button-bottom-1-section-7{
     width: 47%;
